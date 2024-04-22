@@ -1,5 +1,5 @@
 # Ecommerce Sales Analysis Project
-
+Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiMjFmMGJmNWItNmY0MS00NzAzLTg4MWMtNmUxYjE0MzE1ZDQ0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 ## Introduction
 
 This project is a detailed analysis of ecommerce sales data visualized using Power BI Desktop. The objective is to understand sales performance, identify trends, and provide actionable insights for business strategy and decision-making.
